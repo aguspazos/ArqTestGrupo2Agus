@@ -1,0 +1,25 @@
+*.class
+
+.DS_Store
+Cines/.DS_Store
+Cines/lib/.DS_Store
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+Cines/nbproject/private/
+Cines/Cines-war/nbproject/private/
+Cines/Cines-ejb/nbproject/private/
+Cines/Cines-war/build/
+Cines/Cines-ejb/build/
+Cines/Cines-ejb/dist/
+Cines/dist/
+Cines/build/
+Cines/Cines-war/dist/
